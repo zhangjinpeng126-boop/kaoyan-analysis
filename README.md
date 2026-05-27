@@ -66,7 +66,3 @@ kaoyan-analysis/
 ## 数据来源
 
 教育部、研招网公开数据整理
-
-## License
-
-MIT
